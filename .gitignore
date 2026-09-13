@@ -1,27 +1,22 @@
 auth.json
-models.json
-models.json.bak.*
-trust.json
 
 .pi/
 sessions/
 bin/
-tmp/
 
 pi-crash.log
 pi-debug.log
-run-history.jsonl
-session-manager-config.toml
+trust.json
 
 git/
 models-store.json
 mcp-cache.json
 mcp-npx-cache.json
-pi-cache-optimizer-stats.d/
-.billion-context-pi-update-check-*
+run-history.jsonl
+session-manager-config.toml
 
-npm/node_modules/
 extensions/*/node_modules/
 
 .DS_Store
 Thumbs.db
+tmp/
