@@ -1,0 +1,21 @@
+{
+  "lastChangelogVersion": "0.85.1",
+  "theme": "dark/dark",
+  "packages": [
+    "npm:@sting8k/pi-droid-styling",
+    "npm:@heyhuynhgiabuu/pi-task",
+    "https://github.com/sting8k/pi-themes",
+    "npm:@heyhuynhgiabuu/pi-search",
+    "npm:@sting8k/pi-srcwalk",
+    "git:github.com/DietrichGebert/ponytail",
+    "npm:pi-rtk-optimizer",
+    "npm:billion-context-pi",
+    "npm:pi-memory",
+    "npm:@narumitw/pi-btw",
+    "npm:pi-snap-edit",
+    "https://github.com/ayghri/i-have-adhd",
+    "npm:pi-cache-optimizer",
+    "npm:@juicesharp/rpiv-ask-user-question"
+  ],
+  "showHardwareCursor": false
+}
